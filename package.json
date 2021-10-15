@@ -1,7 +1,15 @@
 {
   "name": "webpack-modules-analyzer",
   "version": "0.1.0",
-  "description": "",
+  "description": "Answer to \"Why that package is in the bundle\"",
+  "keywords": [
+    "webpack",
+    "bundle",
+    "package",
+    "why",
+    "ls",
+    "analyze"
+  ],
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -11,7 +19,6 @@
     "type": "git",
     "url": "git+https://github.com/fengzilong/webpack-modules-analyzer.git"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
