@@ -58415,19 +58415,15 @@ exports[`basic 2`] = `
 
     → src/pages/react.jsx
 
-    → [1m@nut-project/cli[22m/lib/runtime/entries/single.js
-
     → [1m@nut-project/cli[22m/lib/runtime/core/nico.js
+
+    → [1m@nut-project/cli[22m/lib/runtime/entries/single.js
 
     → [1munfancy-router[22m/src/router.js
 
   [34m@nut-project/cli[39m [2mis issued by[22m
 
     → [1mSelf[22m [2m( As Entrypoint )[22m
-
-  [34mregularjs[39m [2mis issued by[22m
-
-    → [1m@nut-project/cli[22m/lib/runtime/layouts/saber/index.js
 
   [34maxios[39m [2mis issued by[22m
 
@@ -58437,62 +58433,66 @@ exports[`basic 2`] = `
 
     → [1m@nut-project/cli[22m/lib/runtime/fonts/iconfont.css
 
-  [34mquery-string[39m [2mis issued by[22m
-
-    → [1m@nut-project/cli[22m/lib/runtime/core/router.js
-
-  [34mpath-to-regexp[39m [2mis issued by[22m
-
-    → [1munfancy-router[22m/src/router.js
-
-  [34mprocess[39m [2mis issued by[22m
-
-    → [1maxios[22m/lib/defaults.js
-
-  [34mpopper.js[39m [2mis issued by[22m
-
-    → [1mtippy.js[22m/esm/index.all.js
-
-  [34mobject-assign[39m [2mis issued by[22m
-
-    → [1mreact[22m/cjs/react.production.min.js
-
-  [34mtimers-browserify[39m [2mis issued by[22m
-
-    → [1mvue[22m/dist/vue.runtime.esm.js
-
-  [34mregenerator-runtime[39m [2mis issued by[22m
-
-    → [1m@babel/runtime[22m/regenerator/index.js
-
-  [34mstrict-uri-encode[39m [2mis issued by[22m
-
-    → [1mquery-string[22m/index.js
-
   [34mdecode-uri-component[39m [2mis issued by[22m
 
     → [1mquery-string[22m/index.js
-
-  [34msetimmediate[39m [2mis issued by[22m
-
-    → [1mtimers-browserify[22m/main.js
-
-  [34mtippy.js[39m [2mis issued by[22m
-
-    → [1m@nut-project/cli[22m/lib/runtime/layouts/default/tippy.js
 
   [34mis-buffer[39m [2mis issued by[22m
 
     → [1maxios[22m/lib/utils.js
 
+  [34mobject-assign[39m [2mis issued by[22m
+
+    → [1mreact[22m/cjs/react.production.min.js
+
+  [34mpath-to-regexp[39m [2mis issued by[22m
+
+    → [1munfancy-router[22m/src/router.js
+
+  [34mpopper.js[39m [2mis issued by[22m
+
+    → [1mtippy.js[22m/esm/index.all.js
+
+  [34mprocess[39m [2mis issued by[22m
+
+    → [1maxios[22m/lib/defaults.js
+
+  [34mquery-string[39m [2mis issued by[22m
+
+    → [1m@nut-project/cli[22m/lib/runtime/core/router.js
+
+  [34mregenerator-runtime[39m [2mis issued by[22m
+
+    → [1m@babel/runtime[22m/regenerator/index.js
+
+  [34mregularjs[39m [2mis issued by[22m
+
+    → [1m@nut-project/cli[22m/lib/runtime/layouts/saber/index.js
+
+  [34msetimmediate[39m [2mis issued by[22m
+
+    → [1mtimers-browserify[22m/main.js
+
+  [34mstrict-uri-encode[39m [2mis issued by[22m
+
+    → [1mquery-string[22m/index.js
+
+  [34mtimers-browserify[39m [2mis issued by[22m
+
+    → [1mvue[22m/dist/vue.runtime.esm.js
+
+  [34mtippy.js[39m [2mis issued by[22m
+
+    → [1m@nut-project/cli[22m/lib/runtime/layouts/default/tippy.js
+
 
 [32mpages$react2.fc495ebe2e1363903d8a.js[39m
 
-  [34mreact[39m [2mis issued by[22m
+  [34m@babel/runtime[39m [2mis issued by[22m
 
     → src/pages/react.jsx
 
-  [34m@babel/runtime[39m [2mis issued by[22m
+  [34mreact[39m [2mis issued by[22m
 
     → src/pages/react.jsx
 
@@ -58507,11 +58507,11 @@ exports[`basic 2`] = `
 
 [32mpages$vue$in$markdown1.15efcdf9d593b64a6de8.js[39m
 
-  [34m@vue/babel-helper-vue-jsx-merge-props[39m [2mis issued by[22m
+  [34m@babel/runtime[39m [2mis issued by[22m
 
     → src/pages/vue-in-markdown.vue.md
 
-  [34m@babel/runtime[39m [2mis issued by[22m
+  [34m@vue/babel-helper-vue-jsx-merge-props[39m [2mis issued by[22m
 
     → src/pages/vue-in-markdown.vue.md
 
@@ -58522,13 +58522,13 @@ exports[`basic 2`] = `
 
     → src/pages/vue-in-markdown.vue.md
 
-  [34mvue-loader[39m [2mis issued by[22m
-
-    → src/pages/vue.vue
-
   [34mvue[39m [2mis issued by[22m
 
     → [1m@nut-project/cli[22m/lib/loader/nutify/vue.js
+
+  [34mvue-loader[39m [2mis issued by[22m
+
+    → src/pages/vue.vue
 
 [32mpages$components$demo5.885f9bad46ca4f5622ba.js[39m,
 [32mpages$markdown4.5c7f570c0c43396449c6.js[39m,
