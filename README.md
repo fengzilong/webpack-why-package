@@ -1,4 +1,4 @@
-# webpack-modules-analyzer
+# webpack-why-package
 
 Answer to "Why that package is in the bundle"
 

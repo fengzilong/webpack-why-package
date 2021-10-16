@@ -1,5 +1,5 @@
 {
-  "name": "webpack-modules-analyzer",
+  "name": "webpack-why-package",
   "version": "0.1.0",
   "description": "Answer to \"Why that package is in the bundle\"",
   "keywords": [
@@ -17,14 +17,14 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengzilong/webpack-modules-analyzer.git"
+    "url": "git+https://github.com/fengzilong/webpack-why-package.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fengzilong/webpack-modules-analyzer/issues"
+    "url": "https://github.com/fengzilong/webpack-why-package/issues"
   },
-  "homepage": "https://github.com/fengzilong/webpack-modules-analyzer#readme",
+  "homepage": "https://github.com/fengzilong/webpack-why-package#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "get-package-name": "^2.2.0"
