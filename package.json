@@ -14,7 +14,11 @@
   "files": [
     "lib"
   ],
-  "scripts": {},
+  "scripts": {
+    "test": "FORCE_COLOR=3 jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengzilong/webpack-why-package.git"
@@ -28,5 +32,8 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "get-package-name": "^2.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
   }
 }
