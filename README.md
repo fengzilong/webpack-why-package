@@ -9,6 +9,8 @@ Answer to "Why that package is in the bundle"
 
 <img src="media/screenshot.jpg" alt="screenshot" width="450" />
 
+Show the whole `issuer chain` and tell you why that package is in your bundle
+
 ## Installation
 
 ```bash
