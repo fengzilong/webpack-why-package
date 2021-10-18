@@ -8,3 +8,34 @@
 Answer to "Why that package is in the bundle"
 
 <img src="media/screenshot.jpg" alt="screenshot" width="450" />
+
+## Installation
+
+```bash
+npm i webpack-why-package
+```
+
+## Webpack Plugin
+
+```js
+const WebpackWhyPackagePlugin = require( 'webpack-why-package' ).Plugin
+
+// in your webpack config
+{
+  plugins: [
+    new WebpackWhyPackagePlugin()
+  ]
+}
+```
+
+## API
+
+```js
+const { analyze, format } = require( 'webpack-why-package' )
+
+console.log( format( analyze( webpackStats ) ) )
+```
+
+## License
+
+MIT
