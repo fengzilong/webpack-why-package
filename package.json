@@ -1,6 +1,6 @@
 {
   "name": "webpack-why-package",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Answer to \"Why that package is in the bundle\"",
   "keywords": [
     "webpack",
